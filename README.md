@@ -70,3 +70,21 @@ Modulo de Atualização de Veículos de Trabalho - MAVT
     * ...
 
 <!--te-->
+
+
+## ☢️ Desafios
+<!--ts-->
+
+ * Exposição ao sol
+ * Exposição a terra
+ * Eletrônica Automotive-rated
+ * Classificação IP67
+ * Falta de bateria
+ * Cold-crank
+ * Segurança de armazenamento de dados críticos (Horímetro)
+ * Monitoramento in-loco dos sistemas de direção autônoma/assistida
+ * Bloqueio e/ou desacoplamento dos sistemas de direção autônoma/assistida
+ * Segurança do equipamento e de terceiros para com a direção autônoma/assistida
+ * ...
+
+<!--te-->
